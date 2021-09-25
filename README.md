@@ -1,3 +1,6 @@
+
+This project is su
+
 # Introduction
 
 The most secure and decentralized way to create the decentralized stablecoin is to build it using BTC as a collateral asset, the most widely accepted, liquid, and trust-minimalized asset. But, due to the technological limitations of Bitcoin blockchain, we haven't seen any outstanding BTC-backed stablecoin out there yet.
@@ -115,16 +118,6 @@ Cataliza will integrate Chainlink as the primary price feeds and MoC Oracle ( or
 Oracle is the biggest challenge, a single point of failure risk that Cataliza cannot avoid. 
 
 Thus, users should be aware of the possible risks and damages caused by oracle failures.
-
-## Development
-
-The launch is during Q3 2021.
-
-After launch, we've been/ will be developing several additional features that reinforce the ability and improve the user experience of the Cataliza Protocol, such as a one-tap leverage function at the application layer and bots of liquidation and redemption. 
-
-## Team
-
-Cataliza team consists of an unspecified number of pseudonymous developers/contributors. The reason we chose to be pseudonymous is to prevent the community from being socially centralized in the long run.
 
 
 
