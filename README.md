@@ -1,6 +1,4 @@
 
-This project is su
-
 # Introduction
 
 The most secure and decentralized way to create the decentralized stablecoin is to build it using BTC as a collateral asset, the most widely accepted, liquid, and trust-minimalized asset. But, due to the technological limitations of Bitcoin blockchain, we haven't seen any outstanding BTC-backed stablecoin out there yet.
